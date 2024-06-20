@@ -13,4 +13,4 @@ The code begins by loading a pre-trained VGG16 model with weights from the Image
 The training process involves fitting the model on the training dataset with specified epochs and validation data, along with callbacks for custom actions during training. Finally, the trained model is evaluated on the validation dataset to measure its performance, yielding metrics such as loss and accuracy.
 
 #### Conclusion
-The code demonstrates a structured approach to implementing a VGG16 model using Keras, leveraging pre-trained weights and fine-tuning it for specific classification tasks. This approach highlights the flexibility and effectiveness of transfer learning in adapting pre-trained models for various applications【6:0†source】【6:1†source】【6:3†source】【6:4†source】【6:5†source】.
+The code demonstrates a structured approach to implementing a VGG16 model using Keras, leveraging pre-trained weights and fine-tuning it for specific classification tasks. This approach highlights the flexibility and effectiveness of transfer learning in adapting pre-trained models for various applications

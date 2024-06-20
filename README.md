@@ -14,3 +14,6 @@ The training process involves fitting the model on the training dataset with spe
 
 #### Conclusion
 The code demonstrates a structured approach to implementing a VGG16 model using Keras, leveraging pre-trained weights and fine-tuning it for specific classification tasks. This approach highlights the flexibility and effectiveness of transfer learning in adapting pre-trained models for various applications
+
+#### Source for data 
+ Kaggle: https://www.kaggle.com/c/dogs-vs-cats/data
